@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17a0a6e6-e13b-4106-be4e-e0678a841dba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.rubocop.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head-custom-google-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head-custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-minimal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/rouge-github.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/another-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/medrawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scale.fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SUPPORT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-minimal.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/cibuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/validate-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LaeuXlexpi1R0CkXXPAsLBmgkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a0a6e6-e13b-4106-be4e-e0678a841dba" name="Changes" comment="" />
+      <created>1676113846686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676113846686</updated>
+    </task>
+    <servers />
+  </component>
+</project>
